@@ -1,7 +1,7 @@
 
 Made By SemaxTa
 
-3d print files and for 180 servo motrs code: https://www.thingiverse.com/thing:2793249
+3d print files and for 180 servo motors code: https://www.thingiverse.com/thing:2793249
 
 Semax&&Ta: https://www.youtube.com/@SEMAXTA/videos
 
