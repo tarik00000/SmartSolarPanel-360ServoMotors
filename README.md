@@ -1,5 +1,5 @@
-
-________________Made By SemaxTa__________________________________________________________________________
+**
+Made By SemaxTa**
 
 3d print files and for 180 servo motrs code: https://www.thingiverse.com/thing:2793249
 
